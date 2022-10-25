@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include "Dictionary.h"
-#include "List.h"
+#include "new_list.h"
 
 using namespace std;
 
